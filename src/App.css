@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+  text-align: center;
+}
+.LinkBtn{
+  border: 3px solid black;
+  background-color: teal;
+  padding: 7px 15px;
+  margin: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+
+}
+
+.HomePage{
+  border: 2px solid black;
+  width: 30%;
+  height: 300px;
+  margin: auto;
+  background-color: white;
+  color: black;
+  font-weight: 500;
+  text-align: left;
+  padding-left: 25px;
+}
+.stats{
+  text-align: center;
+  font-size: 22px;
+  text-decoration: underline;
+  color: green;
+}
+.HomePage-element{
+  background-color: rgb(183, 215, 236);
+  width: 80%;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  font-size: 20px;
+ display: flex;
+ justify-content: space-evenly;
+  
+  
+}
+
+.employee_card{
+  border: 4px solid black;
+  width: 30%;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 10px;
+
+
+}
+.employee_image {
+  width: 70%;
+  height: 60%;
+  
+}
+
